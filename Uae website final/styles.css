@@ -1,0 +1,22 @@
+.body
+{
+    height: 935px;
+    width: 1920px;
+    display: flex;
+    text-align: center;
+    background-color: #ffe5e9;
+    margin: 0;
+    padding: 0;
+    
+}
+.banner{
+    width: 101%;
+    height: 952px;
+}
+
+.rightSide{
+    width: 1165px;
+    height: 935px;
+    position: relative;
+    bottom: 20px;
+}
